@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: areksan/toast:1.0
+          image: areksan/toast:latest
           resources:
             limits:
               memory: "128Mi"

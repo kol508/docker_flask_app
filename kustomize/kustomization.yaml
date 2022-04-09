@@ -18,7 +18,7 @@ replicas:
 images:
 - name: flask-app
   newName: areksan/toast
-  newTag: "1.0"
+  newTag: latest
 
 patches:
 - patch: |-
